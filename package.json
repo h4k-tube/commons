@@ -1,6 +1,6 @@
 {
   "name": "h4ktube-commons",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "H4kTube Commons",  
   "repository": "https://github.com/h4k-tube/commons.git",
   "main": "dist/index.js",
