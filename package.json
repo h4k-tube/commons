@@ -1,8 +1,8 @@
 {
-  "name": "devtube-commons",
+  "name": "h4ktube-commons",
   "version": "0.1.0",
-  "description": "DevTube Commons",  
-  "repository": "https://github.com/watch-devtube/commons.git",
+  "description": "H4kTube Commons",  
+  "repository": "https://github.com/h4k-tube/commons.git",
   "main": "dist/index.js",
   "types" : "dist/index.d.ts",
   "author": "Andrey Adamovich",
